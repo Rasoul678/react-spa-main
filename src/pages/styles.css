@@ -1,0 +1,22 @@
+.home__wrapper {
+  font-family: "Ubuntu", "Helvetica", "Franklin Gothic Medium", "Arial Narrow",
+    Arial, sans-serif;
+  min-height: calc(100vh - 7rem);
+  padding: 1rem;
+  background-color: #333;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+
+#part-two {
+  font-size: 3rem;
+}
+
+a {
+  text-decoration: none;
+  color: cornflowerblue;
+}
